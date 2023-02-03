@@ -1,9 +1,9 @@
 {
    "Status":"SUCCESS",
-   "Remark":"New Version Available 3.3",
+   "Remark":"New Version Available 3.4",
    "ErrorCode":1000,
    "Data":{
-      "appVer":"34",
+      "appVer":"3.4",
       "appPackName":"com.adisesolution"
    },
    "What's_New":{
