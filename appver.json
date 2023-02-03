@@ -1,6 +1,21 @@
 {
-    "Version": "3.3",
-    "Remark": "New Version Available 3.3",
-    "Status": "SUCCESS",
-    "ErrorCode": "1000"
+   "Status":"SUCCESS",
+   "Remark":"New Version Available 3.3",
+   "ErrorCode":1000,
+   "Data":{
+      "appVer":"34",
+      "appPackName":"com.adisesolution"
+   },
+   "What's_New":{
+      "WN1":"Bug Fix",
+      "WN2":"",
+      "WN3":"",
+      "WN4":"",
+      "WN5":"",
+      "WN6":"",
+      "WN7":"",
+      "WN8":"",
+      "WN9":"",
+      "WN10":""
+   }
 }
